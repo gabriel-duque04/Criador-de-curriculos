@@ -1,0 +1,24 @@
+{
+  "name": "criador-de-curriculos",
+  "version": "1.0.0",
+  "description": "**Criador de curriculos**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriel-duque04/Criador-de-curriculos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabriel-duque04/Criador-de-curriculos/issues"
+  },
+  "homepage": "https://github.com/gabriel-duque04/Criador-de-curriculos#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "html2pdf.js": "^0.10.3"
+  }
+}
